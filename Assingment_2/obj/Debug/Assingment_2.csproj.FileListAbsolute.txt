@@ -1,0 +1,7 @@
+C:\Users\ppatra20\Documents\C#\Assingment_2\Assingment_2\bin\Debug\Assingment_2.exe.config
+C:\Users\ppatra20\Documents\C#\Assingment_2\Assingment_2\bin\Debug\Assingment_2.exe
+C:\Users\ppatra20\Documents\C#\Assingment_2\Assingment_2\bin\Debug\Assingment_2.pdb
+C:\Users\ppatra20\Documents\C#\Assingment_2\Assingment_2\obj\Debug\Assingment_2.csprojAssemblyReference.cache
+C:\Users\ppatra20\Documents\C#\Assingment_2\Assingment_2\obj\Debug\Assingment_2.csproj.CoreCompileInputs.cache
+C:\Users\ppatra20\Documents\C#\Assingment_2\Assingment_2\obj\Debug\Assingment_2.exe
+C:\Users\ppatra20\Documents\C#\Assingment_2\Assingment_2\obj\Debug\Assingment_2.pdb
